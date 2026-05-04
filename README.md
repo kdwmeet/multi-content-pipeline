@@ -60,3 +60,5 @@ uv run streamlit run main.py
   - [트위터] 사람들의 이목을 끄는 해시태그와 짧은 문장으로 이루어진 스레드
 
 ## 8. 실행 화면
+
+<img width="1516" height="996" alt="스크린샷 2026-05-04 112722" src="https://github.com/user-attachments/assets/daadaa27-aa66-4cc0-900f-fc0a6664f49a" />
